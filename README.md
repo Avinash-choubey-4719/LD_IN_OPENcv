@@ -6,4 +6,4 @@ recognition system plays a major role in monitoring traffic rules and maintainin
 installed at red lights, toll plaza, border crossing, and petrol station and in parking areas, system capture the videos of the vehicles.
 Using canny edge detection algorithm and morphological operators, system detects vehicle number plate. Experiment shows that system can
 effectively capture the vehicle video and detect the license plate whether it has been taken at day time, night time or under complicated 
-environments and show accuracy up to 90%.
+environments and show accuracy up to 90%......
